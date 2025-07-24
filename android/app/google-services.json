@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063222791508",
+    "project_id": "rameshr-4029b",
+    "storage_bucket": "rameshr-4029b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063222791508:android:20de5bfbd5639418b94cc1",
+        "android_client_info": {
+          "package_name": "com.rameshr.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZh3cjUlQaD-z9nxj_wVTBlVxKvTYFWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
